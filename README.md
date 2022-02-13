@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A student from Business Informatics focused on decentralized finance</h3>
+<h3 align="center">A student from Business Informatics focused on decentralized finance. I am passionate about learning and teaching processes.</h3>
 
 <p align="left"> </p>
 
